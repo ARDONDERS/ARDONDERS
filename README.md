@@ -11,8 +11,6 @@ for more personal details you can request information about
 :life cycle index cv 
 : health insurance, third party insurance
 
-![image](https://github.com/user-attachments/assets/c67b8970-b8f4-4cb1-9499-065a626f2725)
-
 
 
 
