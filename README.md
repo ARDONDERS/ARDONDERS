@@ -1,7 +1,7 @@
-space:protonplanet projects  
-unit:develping and testing
+nsc construction space
+unit:attack and defense weapons for unknown lives
 systemadministrator id:100876493
-email:protonplanetprojectsid100876493@protonmail.com
+email:nscconstructionspaceserverindexsystemsid100876493@tutamail.com
 for more personal details you can request information about
 :gba extract
 : accountability documents, deeds, licenses, registers, projects
